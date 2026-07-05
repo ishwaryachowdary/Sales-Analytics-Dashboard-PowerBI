@@ -4,6 +4,8 @@ Interactive Sales Analytics Dashboard  built using Power BI and Excel
 
 ## Project Overview
 This project is an interactive Sales Analytics Dashboard developed using Microsoft Power BI and Excel. It provides insights into sales performance using KPIs and interactive visualizations.
+## Dashboard Preview
+![Sales Analytics Dashboard](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/282b84c2-214a-4d3e-9586-44681814fd11" />
 
 ## Features
 - Total Sales KPI
